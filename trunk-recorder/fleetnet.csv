@@ -1,0 +1,431 @@
+16,1,D,1BMR D1,Digital 1 ,Business ,Bell Mobility Radio 
+32,2,D,1BMR D2,Digital 2 ,Business ,Bell Mobility Radio 
+48,3,D,1BMR D3,Digital 3 ,Business ,Bell Mobility Radio 
+64,4,D,1BMR D4,Digital 4 ,Business ,Bell Mobility Radio 
+80,5,D,1BMR D5,Digital 5 ,Business ,Bell Mobility Radio 
+96,6,D,1BMR D6,Digital 6 ,Business ,Bell Mobility Radio 
+112,7,D,1BMR D7,Digital 7 ,Business ,Bell Mobility Radio 
+128,8,D,1BMR D8,Digital 8 ,Business ,Bell Mobility Radio 
+144,9,D,1BMR D9,Digital 9 ,Business ,Bell Mobility Radio 
+160,00a,A,1BMR A1,Analog 1 ,Business ,Bell Mobility Radio 
+176,00b,A,1BMR A2,Analog 2 ,Business ,Bell Mobility Radio 
+192,00c,A,1BMR A3,Analog 3 ,Business ,Bell Mobility Radio 
+208,00d,A,1BMR A4,Analog 4 ,Business ,Bell Mobility Radio 
+224,00e,A,1BMR A5,Analog 5 ,Business ,Bell Mobility Radio 
+240,00f,A,1BMR A6,Analog 6 ,Business ,Bell Mobility Radio 
+256,10,A,1BMR A7,Analog 7 ,Business ,Bell Mobility Radio 
+272,11,A,1BMR A8,Analog 8 ,Business ,Bell Mobility Radio 
+1712,06b,DE,CISO 1SURV1,Surveillance 1 ,Law Talk ,Criminal Intelligence Service Ontario 
+1728,06c,DE,CISO 1SURV2,Surveillance 2 ,Law Talk ,Criminal Intelligence Service Ontario 
+1744,06d,DE,CISO 1SURV3,Surveillance 3 ,Law Talk ,Criminal Intelligence Service Ontario 
+1760,06e,DE,CISO 1SURV4,Surveillance 4 ,Law Talk ,Criminal Intelligence Service Ontario 
+1776,06f,DE,CISO 1SURV5,Surveillance 5 ,Law Talk ,Criminal Intelligence Service Ontario 
+1792,70,DE,CISO Windsr,Windsor ,Law Talk ,Criminal Intelligence Service Ontario 
+1808,71,DE,CISO Chatham,Chatham ,Law Talk ,Criminal Intelligence Service Ontario 
+1824,72,DE,CISO Sarnia,Sarnia ,Law Talk ,Criminal Intelligence Service Ontario 
+1840,73,DE,CISO London,London ,Law Talk ,Criminal Intelligence Service Ontario 
+1872,75,DE,CISO Stratford,Stratford ,Law Talk ,Criminal Intelligence Service Ontario 
+1888,76,DE,CISO Waterloo,Waterloo ,Law Talk ,Criminal Intelligence Service Ontario 
+1904,77,DE,CISO Brantford,Brantford ,Law Talk ,Criminal Intelligence Service Ontario 
+1920,78,DE,CISO Hamilton,Hamilton ,Law Talk ,Criminal Intelligence Service Ontario 
+1936,79,DE,CISO Niagara,Niagara ,Law Talk ,Criminal Intelligence Service Ontario 
+1952,07a,DE,CISO Halton,Halton ,Law Talk ,Criminal Intelligence Service Ontario 
+1968,07b,DE,CISO Peel,Peel ,Law Talk ,Criminal Intelligence Service Ontario 
+1984,07c,DE,CISO Toronto,Toronto ,Law Talk ,Criminal Intelligence Service Ontario 
+2000,07d,DE,CISO York,York ,Law Talk ,Criminal Intelligence Service Ontario 
+2016,07e,DE,CISO Durham,Durham ,Law Talk ,Criminal Intelligence Service Ontario 
+2032,07f,DE,CISO Owen Sound,Owen Sound ,Law Talk ,Criminal Intelligence Service Ontario 
+2048,80,DE,CISO Barrie,Barrie ,Law Talk ,Criminal Intelligence Service Ontario 
+2064,81,DE,MNR 1SPR1,Spare 1 ,Law Talk ,Criminal Intelligence Service Ontario 
+2080,82,DE,MNR 1SPR2,Spare 2 ,Law Talk ,Criminal Intelligence Service Ontario 
+2736,0ab,DE,MNR 1ESSU 01,Evaluation and Special Services Unit ,Law Talk ,MNR - Conservation Officers 
+2752,0ac,DE,MNR 1ESSU 02,Evaluation and Special Services Unit ,Law Talk ,MNR - Conservation Officers 
+2768,0ad,D,MNR 1NR OPS01,Ops 1 Owen Sound - Sault Ste. Marie Dispatch ,Law Dispatch ,MNR - Conservation Officers 
+2784,0ae,D,MNR 1NR OPS02,Ops 2 Southwest Ontario - Sault Ste. Marie Dispatch ,Law Dispatch ,MNR - Conservation Officers 
+2800,0af,D,MNR 1NR OPS03,Ops 3 Midhurst/Aurora - Sault Ste. Marie Dispatch ,Law Dispatch ,MNR - Conservation Officers 
+2816,0b0,D,MNR 1NR TAC01,Tactical 1 ,Law Tac ,MNR - Conservation Officers 
+2832,0b1,D,MNR 1NR TAC02,Tactical 2 ,Law Tac ,MNR - Conservation Officers 
+2848,0b2,D,MNR 1NR TAC03,Tactical 3 ,Law Tac ,MNR - Conservation Officers 
+2864,0b3,D,MNR 1NR TAC04,Tactical 4 ,Law Tac ,MNR - Conservation Officers 
+2880,0b4,D,MNR 1NR TAC05,Tactical 5 ,Law Tac ,MNR - Conservation Officers 
+2896,0b5,D,MNR 1NR TAC06,Tactical 6 ,Law Tac ,MNR - Conservation Officers 
+2912,0b6,D,MNR NR CO1,Conservation Officers ,Law Tac ,MNR - Conservation Officers 
+2928,0b7,D,MNR NR CO2,Conservation Officers ,Law Tac ,MNR - Conservation Officers 
+2944,0b8,D,MNR 1AYLMER ENF,Aylmer Wide Area ,Law Tac ,MNR - Conservation Officers 
+2960,0b9,D,MNR 1GUELPH ENF,Guelph Wide Area ,Law Tac ,MNR - Conservation Officers 
+2976,0ba,D,MNR 1LONDON ENF,London Wide Area ,Law Talk ,MNR - Conservation Officers 
+2992,0bb,D,MNR 1AURORA ENF,Aurora Wide Area ,Law Talk ,MNR - Conservation Officers 
+3008,0bc,D,MNR 1LKHURON ENF,Lake Huron Wide Area ,Law Talk ,MNR - Conservation Officers 
+3024,0bd,D,MNR 1LK ERIE ENF,Lake Erie Wide Area ,Law Talk ,MNR - Conservation Officers 
+3040,0be,D,MNR 1MIDHURSTENF,Midhurst Wide Area ,Law Talk ,MNR - Conservation Officers 
+3072,0c0,D,MNR 1EMERG DISP,Emergency Dispatch ,Law Talk ,MNR - Conservation Officers 
+3632,0e3,D,MTO ENF 3632,Enforcement ,Law Talk ,MTO Enforcement 
+3648,0e4,D,MTO ENF 3648,Enforcement ,Law Talk ,MTO Enforcement 
+3712,0e8,D,MTO ENF Essex,Essex ,Law Talk ,MTO Enforcement 
+3744,0ea,D,MTO ENF 3744,Enforcement ,Law Talk ,MTO Enforcement 
+3760,0eb,D,MTO ENF SW,Enforcement Administration - Southwest ,Law Talk ,MTO Enforcement 
+3776,0ec,D,MTO WINDSOR OP,Windsor Operations ,Law Dispatch ,MTO Enforcement 
+3792,0ed,D,MTO WINDSOR TAC,Windsor Tactical ,Law Tac ,MTO Enforcement 
+3808,0ee,D,MTO KITCHENER OP,Kitchener Operations ,Law Dispatch ,MTO Enforcement 
+3824,0ef,D,MTO KITCHENER TC,Kitchener Tactical ,Law Tac ,MTO Enforcement 
+3840,0f0,D,MTO LONDON OPS,London Operations ,Law Dispatch ,MTO Enforcement 
+3856,0f1,D,MTO LONDON TAC,London Tactical ,Law Tac ,MTO Enforcement 
+3872,0f2,D,MTO ENF SW SP,Enforcement Spare - Southwest  ,Law Talk ,MTO Enforcement 
+3888,0f3,D,MTO ENF SW COMM,Enforcement Common - Southwest ,Law Talk ,MTO Enforcement 
+3904,0f4,D,MTO TORONTO OPS,Toronto Operations ,Law Dispatch ,MTO Enforcement 
+3920,0f5,D,MTO TORONTO TAC,Toronto Tactical ,Law Tac ,MTO Enforcement 
+3936,0f6,D,MTO PEEL OPS,Peel Operations ,Law Dispatch ,MTO Enforcement 
+3952,0f7,D,MTO PEEL TAC,Peel Tactical ,Law Tac ,MTO Enforcement 
+3968,0f8,D,MTO HAMILTON OP,Hamilton Operations ,Law Dispatch ,MTO Enforcement 
+3984,0f9,D,MTO HAMILTON TAC,Hamilton Tactical ,Law Tac ,MTO Enforcement 
+4000,0fa,D,MTO OSHAWA OPS,Oshawa Operations ,Law Dispatch ,MTO Enforcement 
+4016,0fb,D,MTO OSHAWA TAC,Oshawa Tactical ,Law Tac ,MTO Enforcement 
+4032,0fc,D,MTO HALTON OP,Halton Operations ,Law Dispatch ,MTO Enforcement 
+4048,0fd,D,MTO HALTON TAC,Halton Tactical ,Law Tac ,MTO Enforcement 
+4064,0fe,D,MTO YORK OPS,York Operations ,Law Dispatch ,MTO Enforcement 
+4080,0ff,D,MTO YORK TAC,York Tactical ,Law Tac ,MTO Enforcement 
+4096,100,D,MTO RED,Remote Emergency Dispatch ,Law Talk ,MTO Enforcement 
+8000,1f4,D,1ENF 01,MTO/MNR/OPP Common Channel ,Interop ,Interagency/Common/Mutual Aid 
+8192,200,D,OPP 1HWY 01,London Highway Units - 1HWY01 ,Law Talk ,OPP Wide Area 
+8208,201,D,OPP 1OPS01,Brant County 6B - 1OPS01 ,Law Dispatch ,OPP West Region 
+8224,202,D,OPP 1OPS02,Bruce County 6R - 1OPS02 ,Law Dispatch ,OPP West Region 
+8240,203,D,OPP 1OPS03,Chatham-Kent 6D - 1OPS03 ,Law Dispatch ,OPP West Region 
+8256,204,D,OPP 1OPS04,Elgin County 6P - 1OPS04 ,Law Dispatch ,OPP West Region 
+8272,205,D,OPP 1OPS05,Essex County 6E - 1OPS05 ,Law Dispatch ,OPP West Region 
+8288,206,D,OPP 1OPS06,Haldimand County 6C -1OPS06 (6Q First Nations) ,Law Dispatch ,OPP West Region 
+8304,207,D,OPP 1OPS07,Huron County 6G - 1OPS07 ,Law Dispatch ,OPP West Region 
+8320,208,D,OPP 1OPS08,Lambton County 6M - 1OPS08 ,Law Dispatch ,OPP West Region 
+8336,209,D,OPP 1OPS09,Middlesex County 6J - 1OPS09 ,Law Dispatch ,OPP West Region 
+8352,20a,D,OPP 1OPS10,North Grey 6L - 1OPS10 ,Law Dispatch ,OPP West Region 
+8368,20b,D,OPP 1OPS11,Oxford County 6S - 1OPS11 ,Law Dispatch ,OPP West Region 
+8384,20c,D,OPP 1OPS12,Perth County 6N - 1OPS12 ,Law Dispatch ,OPP West Region 
+8400,20d,D,OPP 1OPS13,South Bruce 6I - 1OPS13 ,Law Dispatch ,OPP West Region 
+8416,20e,D,OPP 1OPS14,Wellington County 6T - 1OPS14 ,Law Dispatch ,OPP West Region 
+8432,20f,D,OPP 1OPS15,Norfolk County 6O - 1OPS15 ,Law Dispatch ,OPP West Region 
+8448,210,D,OPP 1OPS16,Spare (Future Use) 1OPS16 ,Law Dispatch ,OPP West Region 
+8464,211,D,OPP 1OPS17,Spare (Future Use) 1OPS17 ,Law Dispatch ,OPP West Region 
+8480,212,D,OPP 1OPS18,Spare (Future Use) 1OPS18 ,Law Dispatch ,OPP West Region 
+8496,213,D,OPP 1BNPD,Bruce Nuclear Power Plant - 1BNPD ,Law Talk ,OPP West Region 
+8512,214,D,OPP 1HWY 02,GTR Highway Units - 1HWY02 ,Law Talk ,OPP Wide Area 
+8528,215,D,OPP 1OPS30,Barrie 1B - 1OPS30 ,Law Dispatch ,OPP Central Region 
+8544,216,D,OPP 1OPS31,Collingwood & Blue Mountains 1O - 1OPS31 ,Law Dispatch ,OPP Central Region 
+8560,217,D,OPP 1OPS32,Dufferin County 1N - 1OPS32 ,Law Dispatch ,OPP Central Region 
+8576,218,D,OPP 1OPS33,Huronia West 1H - 1OPS33 ,Law Dispatch ,OPP Central Region 
+8592,219,D,OPP 1OPS34,MnJikaning 1M - 1OPS34 ,Law Dispatch ,OPP Central Region 
+8608,21a,D,OPP 1OPS35,Southern Georgian Bay 1K - 1OPS35 ,Law Dispatch ,OPP Central Region 
+8624,21b,D,OPP 1OPS36,Nottawasaga 1L - 1OPS36 ,Law Dispatch ,OPP Central Region 
+8640,21c,D,OPP 1OPS37,Orillia & Severn Township 1M - 1OPS37 ,Law Dispatch ,OPP Central Region 
+8656,21d,D,OPP 1OPS38,Aurora 5B -1OPS38 (5A- RHQ ) ,Law Dispatch ,OPP Highway Safety Division 
+8672,21e,D,OPP 1OPS39,Burlington 5C - 1OPS39 ,Law Dispatch ,OPP Highway Safety Division 
+8688,21f,D,OPP 1OPS40,Town of Caledon 1S - 1OPS40 ,Law Dispatch ,OPP Central Region 
+8704,220,D,OPP 1OPS41,Cambridge 5E - 1OPS41 ,Law Dispatch ,OPP Highway Safety Division 
+8720,221,D,OPP 1OPS42,Toronto 5F - 1OPS42 ,Law Dispatch ,OPP Highway Safety Division 
+8736,222,D,OPP 1OPS43,Niagara Region 5G - 1OPS43 ,Law Dispatch ,OPP Highway Safety Division 
+8752,223,D,OPP 1OPS44,Mississauga 5I - 1OPS44 ,Law Dispatch ,OPP Highway Safety Division 
+8768,224,D,OPP 1OPS45,Whitby 5K - 1OPS45 ,Law Dispatch ,OPP Highway Safety Division 
+8784,225,D,OPP 1OPS46,Aurora 5L - 1OPS46 Highway 407 ETR ,Law Dispatch ,OPP Highway Safety Division 
+8800,226,D,OPP 1OPS47,1OPS47 ,Law Dispatch ,OPP Highway Safety Division 
+8816,227,D,OPP 1OPS48,1OPS48 ,Law Dispatch ,OPP Highway Safety Division 
+8832,228,D,OPP 1OPS49,1OPS49 ,Law Dispatch ,OPP Highway Safety Division 
+8848,229,D,OPP 1CHATHAM,Chatham - 1CHATHAM ,Law Talk ,OPP Wide Area 
+8864,22a,D,OPP 1LONDON,London - 1LONDON ,Law Talk ,OPP Wide Area 
+8880,22b,D,OPP 1MT FOREST,Mount Forest - 1MT FOREST ,Law Talk ,OPP Wide Area 
+8896,22c,D,OPP 1GTR,Greater Toronto Region - 1GTR ,Law Talk ,OPP Wide Area 
+8912,22d,D,OPP 1BARRIE,Barrie - 1BARRIE ,Law Talk ,OPP Wide Area 
+9088,238,DE,OPP 1INVEST 1,Investigative 1 ,Law Talk ,OPP Intelligence 
+9104,239,DE,OPP 1INVEST 2,Investigative 2 ,Law Talk ,OPP Intelligence 
+9120,23a,DE,OPP 1INVEST 3,Investigative 3 ,Law Talk ,OPP Intelligence 
+9136,23b,DE,OPP 1CRIME,Crime 1 ,Law Talk ,OPP Intelligence 
+9152,23c,DE,OPP 1INTEL 1,Intelligence 1 ,Law Talk ,OPP Intelligence 
+9168,23d,DE,OPP 1INTEL 2,Intelligence 2 ,Law Talk ,OPP Intelligence 
+9184,23e,DE,OPP 1VIP 1,VIP Security 1 ,Law Talk ,OPP Intelligence 
+9200,23f,DE,OPP 1VIP 2,VIP Security 2 ,Law Talk ,OPP Intelligence 
+9216,240,DE,OPP 1VIP 3,VIP Security 3 ,Law Talk ,OPP Intelligence 
+9232,241,DE,OPP 1TSB 1,Technical Service Bureau 1 ,Law Talk ,OPP Intelligence 
+9248,242,DE,OPP 1TSB 2,Technical Service Bureau 2 ,Law Talk ,OPP Intelligence 
+9264,243,DE,OPP 1TSB 3,Technical Service Bureau 3 ,Law Talk ,OPP Intelligence 
+9280,244,DE,OPP 1DRUG 1,Drugs Enforcement Bureau 1 ,Law Talk ,OPP Intelligence 
+9296,245,DE,OPP 1DRUG 2,Drugs Enforcement Bureau 2 ,Law Talk ,OPP Intelligence 
+9312,246,DE,OPP 1ORG CRM 1,Organized Crime 1 ,Law Talk ,OPP Intelligence 
+9328,247,DE,OPP 1ORG CRM 2,Organized Crime 2 ,Law Talk ,OPP Intelligence 
+9360,249,DE,OPP 1SPC SERV,Special Service ,Law Talk ,OPP Intelligence 
+9376,24a,D,OPP 1TAC01,Tactical 1 - 1TAC01 (London Comm Centre) ,Law Tac ,OPP Tactical 
+9392,24b,D,OPP 1TAC02,Tactical 2 - 1TAC02 (London Comm Centre) ,Law Tac ,OPP Tactical 
+9408,24c,D,OPP 1TAC03,Tactical 3 - 1TAC03 (London Comm Centre) ,Law Tac ,OPP Tactical 
+9424,24d,D,OPP 1TAC04,Tactical 4 - 1TAC04 (London Comm Centre) ,Law Tac ,OPP Tactical 
+9440,24e,D,OPP 1TAC05,Tactical 5 - 1TAC05 (Orillia Comm Centre) ,Law Tac ,OPP Tactical 
+9456,24f,D,OPP 1TAC06,Tactical 6 - 1TAC06 (Orillia Comm Centre) ,Law Tac ,OPP Tactical 
+9472,250,D,OPP 1TAC07,Tactical 7 - 1TAC07 (Orillia Comm Centre) ,Law Tac ,OPP Tactical 
+9488,251,D,OPP 1TAC08,Tactical 8 - 1TAC08 (Orillia Comm Centre) ,Law Tac ,OPP Tactical 
+9504,252,D,OPP 1TAC09,Tactical 9 - 1TAC09 ,Law Tac ,OPP Tactical 
+9520,253,D,OPP 1TAC10,Tactical 10 - 1TAC10 ,Law Tac ,OPP Tactical 
+9536,254,A,OPP 1RED SW,Remote Emergency Dispatch - 1RED SW ,Law Dispatch ,OPP Wide Area 
+9584,257,D,1PC BPS/HPS,Brantford / Hamilton Police Services Patch ,Interop ,Interagency/Common/Mutual Aid 
+9600,258,D,1PC LPS,London Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9632,25a,D,1PC PRPS,Peel Regional Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9648,25b,D,1PC TPS,Toronto Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9664,25c,D,1PC WRPS,Waterloo Regional Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9680,25d,D,1PC WPS,Windsor Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9696,25e,D,1PC YRPS,York Regional PD Patch ,Interop ,Interagency/Common/Mutual Aid 
+9856,268,D,1PC GPS,Guelph Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+9968,26f,D,1PC S-CPS,Strathroy-Caradoc Police Service Patch ,Interop ,Interagency/Common/Mutual Aid 
+16960,424,DE,MOF Insp 1,Investigations and Inspections 1 ,Law Talk ,Ministry Of Finance 
+16976,425,DE,MOF Insp 2,Investigations and Inspections 2 ,Law Talk ,Ministry Of Finance 
+16992,426,DE,MOF Insp 3,Investigations and Inspections 3 ,Law Talk ,Ministry Of Finance 
+17008,427,DE,MOF Insp 4,Investigations and Inspections 4 ,Law Talk ,Ministry Of Finance 
+17024,428,DE,MOF Insp 5,Investigations and Inspections 5 ,Law Talk ,Ministry Of Finance 
+17040,429,DE,MOF Insp 6,Investigations and Inspections 6 ,Law Talk ,Ministry Of Finance 
+18304,478,DE,OPP 1ORG IGU,Organized Crime - Illegal Gambling Unit ,Law Talk ,OPP Intelligence 
+32768,800,A,1PC PS,Public Safety  ,Interop ,Interagency/Common/Mutual Aid 
+32800,802,A,1PC AMB,Common ,Interop ,MOH Interop 
+32816,803,A,1PC POLICE,Police Common ,Interop ,Interagency/Common/Mutual Aid 
+32832,804,A,1PC FIRE,Fire Common ,Interop ,Interagency/Common/Mutual Aid 
+33088,814,A,OFM - 1,Ontario Fire Marshall - 1 ,Fire-Talk ,Ontario Fire Marshall 
+33104,815,A,OFM - 2,Ontario Fire Marshall - 2 ,Fire-Talk ,Ontario Fire Marshall 
+34720,87a,A,MOH OSHAWA ALRT,Pre-Alert ,EMS Dispatch ,MOH Oshawa CACC 
+34736,87b,A,MOH OSHAWA ALRT,Pre-Alert ,EMS Dispatch ,MOH Oshawa CACC 
+34976,88a,A,MOH ZONE 1,Southwest Zone Common ,Interop ,MOH Interop 
+34992,88b,A,1 REG 1 COM,Region 1 Common ,Interop ,MOH Interop 
+35008,88c,A,1 REG 2 COM,Region 2 Common ,Interop ,MOH Interop 
+35024,88d,A,1 REG 3 COM,Region 3 Common ,Interop ,MOH Interop 
+35040,88e,A,Windsor CACC,CACC ,EMS Dispatch ,MOH Windsor CACC 
+35056,88f,A,Windsor City,City ,EMS Dispatch ,MOH Windsor CACC 
+35072,890,A,Essex,Essex ,EMS Dispatch ,MOH Windsor CACC 
+35088,891,A,Windsor TAC 1,Tactical 1 ,EMS-Tac ,MOH Windsor CACC 
+35104,892,A,Windsor TAC 2,Tactical 2 ,EMS-Tac ,MOH Windsor CACC 
+35120,893,A,Windsor TAC 3,Tactical 3 ,EMS-Tac ,MOH Windsor CACC 
+35136,894,A,Windsor Spare,Spare ,EMS Dispatch ,MOH Windsor CACC 
+35152,895,A,WAL CACC,Wallaceburg CACC ,EMS Dispatch ,MOH Wallaceburg CACC 
+35168,896,A,WAL LAMBTON,Lambton ,EMS Dispatch ,MOH Wallaceburg CACC 
+35184,897,A,WAL CH KENT,Kent ,EMS Dispatch ,MOH Wallaceburg CACC 
+35200,898,A,WAL TAC 1,Tactical 1 ,EMS-Tac ,MOH Wallaceburg CACC 
+35216,899,A,WAL TAC 2,Tactical 2 ,EMS-Tac ,MOH Wallaceburg CACC 
+35232,89a,A,WAL TAC 3,Tactical 3 ,EMS-Tac ,MOH Wallaceburg CACC 
+35248,89b,A,WAL SPARE,Spare ,EMS Dispatch ,MOH Wallaceburg CACC 
+35264,89c,A,London CACC,CACC ,EMS Dispatch ,MOH London CACC 
+35280,89d,A,London City 1,City 1 ,EMS Dispatch ,MOH London CACC 
+35296,89e,A,London City 2,City 2 ,EMS Dispatch ,MOH London CACC 
+35312,89f,A,London East,East ,EMS Dispatch ,MOH London CACC 
+35328,8a0,A,London West,West ,EMS Dispatch ,MOH London CACC 
+35344,8a1,A,London North,North ,EMS Dispatch ,MOH London CACC 
+35360,8a2,A,London TAC 1,Tactical 1 ,EMS-Tac ,MOH London CACC 
+35376,8a3,A,London TAC 2,Tactical 2 ,EMS-Tac ,MOH London CACC 
+35392,8a4,A,London TAC 3,Tactical 3 ,EMS-Tac ,MOH London CACC 
+35408,8a5,A,London TAC 4,Tactical 4 ,EMS-Tac ,MOH London CACC 
+35424,8a6,A,London TAC 5,Tactical 5 - Owen Sound Hospital Patch ,EMS-Tac ,MOH London CACC 
+35440,8a7,A,London TAC 6,Tactical 6 ,EMS-Tac ,MOH London CACC 
+35456,8a8,A,London SPARE,Spare ,EMS Dispatch ,MOH London CACC 
+35472,8a9,A,MOH CAM CACC,CACC ,EMS Dispatch ,MOH Cambridge CACC 
+35488,8aa,A,MOH CAM N Patch,North - Hospital Patch ,Hospital ,MOH Cambridge CACC 
+35504,8ab,A,MOH CAM S Patch,South - Hospital Patch ,Hospital ,MOH Cambridge CACC 
+35520,8ac,A,MOH CAM TAC 1 WR,Tactical 1 - Waterloo Region ,EMS-Tac ,MOH Cambridge CACC 
+35536,8ad,A,MOH CAM TAC 2 WR,Tactical 2 - Waterloo Region ,EMS-Tac ,MOH Cambridge CACC 
+35552,8ae,A,MOH CAM TAC 3 WD,Tactical 3 - Wellington/Dufferin ,EMS-Tac ,MOH Cambridge CACC 
+35568,8af,A,MOH CAM Spare,Spare ,EMS Dispatch ,MOH Cambridge CACC 
+35584,8b0,A,Hamilton CACC,CACC ,EMS Dispatch ,MOH Hamilton CACC 
+35600,8b1,A,Ham City East,City East ,EMS Dispatch ,MOH Hamilton CACC 
+35616,8b2,A,Ham Niagara N,Niagara North ,EMS Dispatch ,MOH Hamilton CACC 
+35632,8b3,A,Simcoe Norfolk,Simcoe Norfolk  ,EMS Dispatch ,MOH Hamilton CACC 
+35648,8b4,A,Hamilton TAC 1,Tactical 1 ,EMS-Tac ,MOH Hamilton CACC 
+35664,8b5,A,Hamilton TAC 2,Tactical 2 ,EMS-Tac ,MOH Hamilton CACC 
+35680,8b6,A,Hamilton TAC 3,Tactical 3 ,EMS-Tac ,MOH Hamilton CACC 
+35696,8b7,A,Hamilton TAC 4,Tactical 4 ,EMS-Tac ,MOH Hamilton CACC 
+35712,8b8,A,Ham City West,City West ,EMS Dispatch ,MOH Hamilton CACC 
+35728,8b9,A,Ham Niagara S,Niagara South ,EMS Dispatch ,MOH Hamilton CACC 
+35744,8ba,A,MIS CACC,Mississauga CACC ,EMS Dispatch ,MOH Mississauga CACC 
+35760,8bb,A,Peel N Patch,Hospital Patch - Peel North ,Hospital ,MOH Mississauga CACC 
+35776,8bc,A,Peel S Patch,Hospital Patch - Peel South ,Hospital ,MOH Mississauga CACC 
+35792,8bd,A,Halton EMS,Halton Region ,EMS Dispatch ,MOH Mississauga CACC 
+35808,8be,A,MIS TAC 1 SW,Tactical 1 - Peel South West ,EMS-Tac ,MOH Mississauga CACC 
+35824,8bf,A,MIS TAC 2 SE,Tactical 2 - Peel South East ,EMS-Tac ,MOH Mississauga CACC 
+35840,8c0,A,MIS TAC 3 HL,Tactical 3 - Halton - Hospital Patch  ,Hospital ,MOH Mississauga CACC 
+35856,8c1,A,MIS TAC 4 NE,Tactical 4 - Peel North East ,EMS-Tac ,MOH Mississauga CACC 
+35872,8c2,A,MIS TAC 5 NW,Tactical 5 - Peel North West ,EMS-Tac ,MOH Mississauga CACC 
+35888,8c3,A,MIS Spare,Spare ,EMS Dispatch ,MOH Mississauga CACC 
+35904,8c4,A,MOH OSHAWA CACC,CACC ,EMS Dispatch ,MOH Oshawa CACC 
+35920,8c5,A,MOH OSHAWA N,North Dispatch ,EMS Dispatch ,MOH Oshawa CACC 
+35936,8c6,A,MOH OSHAWA S,South Dispatch ,EMS Dispatch ,MOH Oshawa CACC 
+35952,8c7,A,MOH OSHAWA TAC1,Tactical 1 ,EMS-Tac ,MOH Oshawa CACC 
+35968,8c8,A,MOH OSHAWA TAC2,Tactical 2 ,EMS-Tac ,MOH Oshawa CACC 
+35984,8c9,A,MOH OSHAWA TAC3,Tactical 3 ,EMS-Tac ,MOH Oshawa CACC 
+36000,8ca,A,MOH OSHAWA SPARE,Spare ,EMS Dispatch ,MOH Oshawa CACC 
+36016,8cb,A,MOH GEO CACC,CACC ,EMS Dispatch ,MOH Georgian CACC 
+36032,8cc,A,MOH GEO SIM N,Simcoe North - Hospital Patch ,EMS-Tac ,MOH Georgian CACC 
+36048,8cd,A,MOH GEO YORK N,York North - Hospital Patch ,EMS-Tac ,MOH Georgian CACC 
+36064,8ce,A,MOH GEO YORK S,York South - Hospital Patch ,EMS-Tac ,MOH Georgian CACC 
+36080,8cf,A,MOH GEO TAC 1,York Assigner (Tactical 1) ,EMS Dispatch ,MOH Georgian CACC 
+36096,8d0,A,MOH GEO TAC 2,York Follower (Tactical 2) ,EMS Dispatch ,MOH Georgian CACC 
+36112,8d1,A,MOH GEO TAC 3,York Follower (Tactical 3) ,EMS-Tac ,MOH Georgian CACC 
+36128,8d2,A,MOH GEO TAC 4,Simcoe Assigner (Tactical 4) ,EMS Dispatch ,MOH Georgian CACC 
+36144,8d3,A,MOH GEO TAC 5,Simcoe Follower (Tactical 5) ,EMS Dispatch ,MOH Georgian CACC 
+36160,8d4,A,MOH GEO SIM S,Simcoe South - Hospital Patch ,EMS-Tac ,MOH Georgian CACC 
+36176,8d5,A,Toronto CACC,Toronto CACC ,EMS Dispatch ,MOH Toronto CACC 
+36192,8d6,A,RVH,Royal Victoria Hospital - Barrie ,Hospital ,MOH Hospital Patch 
+36208,8d7,A,GBG Midland,Georgian Bay General - Midland ,Hospital ,MOH Hospital Patch 
+36224,8d8,A,SMH Orillia,Soldiers' Memorial Hospital - Orillia ,Hospital ,MOH Hospital Patch 
+36240,8d9,A,SMH Alliston,Stevenson Memorial - Alliston ,Hospital ,MOH Hospital Patch 
+36256,8da,A,G&M Collingw,General & Marine Hospital - Collingwood ,Hospital ,MOH Hospital Patch 
+36272,8db,A,SLRHC,South Lake - Newmarket ,Hospital ,MOH Hospital Patch 
+36288,8dc,A,Georgian Spr,Georgian Hospital Spare ,Hospital ,MOH Hospital Patch 
+36304,8dd,A,JBMH,Joseph Brant Memorial - Burlington ,Hospital ,MOH Hospital Patch 
+36320,8de,A,HHC GH,Halton Healthcare - Georgetown ,Hospital ,MOH Hospital Patch 
+36336,8df,A,HHC OTMH,Halton Healthcare - Oakville  ,Hospital ,MOH Hospital Patch 
+36352,8e0,A,HHC MDH,Halton Healthcare - Milton  ,Hospital ,MOH Hospital Patch 
+36368,8e1,A,Osler - BCH,William Osler Health - Brampton  ,Hospital ,MOH Hospital Patch 
+36384,8e2,A,Osler - EGH,William Osler Health - Etobicoke  ,Hospital ,MOH Hospital Patch 
+36400,8e3,A,Trillium CVH,Trillium Health Centre - Credit Valley Hospital - Mississauga ,Hospital ,MOH Hospital Patch 
+36416,8e4,A,Trillium MGH,Trillium Health Centre - Mississauga General ,Hospital ,MOH Hospital Patch 
+36432,8e5,A,MSHC,Markham Stouffville Health Centre ,Hospital ,MOH Hospital Patch 
+36448,8e6,A,MackenzieYCH,Mackenzie Healthcare - York Central Hospital ,Hospital ,MOH Hospital Patch 
+36464,8e7,A,MGH Spare,Mississauga Hospital Spare ,Hospital ,MOH Hospital Patch 
+36480,8e8,A,RVH APH,Rouge Valley Health System - Ajax/Pickering ,Hospital ,MOH Hospital Patch 
+36496,8e9,A,LH BMH,Lakeridge Health - Bowmanville  ,Hospital ,MOH Hospital Patch 
+36512,8ea,A,LH OGH,Lakeridge Health - Oshawa  ,Hospital ,MOH Hospital Patch 
+36528,8eb,A,LH PPH,Lakeridge Health - Port Perry  ,Hospital ,MOH Hospital Patch 
+36544,8ec,A,LH UCH,Lakeridge Health - Uxbridge  ,Hospital ,MOH Hospital Patch 
+36560,8ed,A,LH OGH SPR,Lakeridge Health - Oshawa Spare ,Hospital ,MOH Hospital Patch 
+36576,8ee,A,LW LMH,Listowel Wingham - Listowel  ,Hospital ,MOH Hospital Patch 
+36592,8ef,A,NWHC Mt.Frst,North Wellington Healthcare - Mount Forest ,Hospital ,MOH Hospital Patch 
+36608,8f0,A,HHCC Orangev,Headwaters - Orangeville ,Hospital ,MOH Hospital Patch 
+36624,8f1,A,NWHC Palmers,North Wellington Healthcare - Palmerston  ,Hospital ,MOH Hospital Patch 
+36640,8f2,A,GMH Fergus,Groves Memorial - Fergus ,Hospital ,MOH Hospital Patch 
+36656,8f3,A,GGH,Guelph General Hospital ,Hospital ,MOH Hospital Patch 
+36672,8f4,A,CMH,Cambridge Memorial Hospital ,Hospital ,MOH Hospital Patch 
+36688,8f5,A,GRH Kitchenr,Grand River Hospital - Kitchener ,Hospital ,MOH Hospital Patch 
+36704,8f6,A,SMH Kitchenr,St. Mary's Hospital - Kitchener ,Hospital ,MOH Hospital Patch 
+36720,8f7,A,CAM SPR,Cambridge Hospital Spare ,Hospital ,MOH Hospital Patch 
+36736,8f8,A,HHS HGH,Hamilton Health Sciences - General ,Hospital ,MOH Hospital Patch 
+36752,8f9,A,JURAVINSKI,Juravinski Hospital - Hamilton ,Hospital ,MOH Hospital Patch 
+36768,8fa,A,MUHC,Hamilton Health Sciences - McMaster  ,Hospital ,MOH Hospital Patch 
+36784,8fb,A,StJ Hamilton,St Josephs - Hamilton ,Hospital ,MOH Hospital Patch 
+36800,8fc,A,NHS DMH,Niagara Health System - Fort Erie ,Hospital ,MOH Hospital Patch 
+36816,8fd,A,WLMH,West Lincoln Hospital - Grimsby ,Hospital ,MOH Hospital Patch 
+36832,8fe,A,NHS GNGH,Niagara Health System - Niagara Falls ,Hospital ,MOH Hospital Patch 
+36848,8ff,A,NHS PCGH,Niagara Health System - Port Colborne  ,Hospital ,MOH Hospital Patch 
+36864,900,A,NHS SGH,Niagara Health System - St. Catharines ,Hospital ,MOH Hospital Patch 
+36880,901,A,HDH St.Cathr,Hotel Dieu - St Catherines ,Hospital ,MOH Hospital Patch 
+36896,902,A,NHS WCH,Niagara Health System - Welland  ,Hospital ,MOH Hospital Patch 
+36912,903,A,BGH,Brantford General Hospital ,Hospital ,MOH Hospital Patch 
+36928,904,A,HWMH,Haldimand War Memorial - Dunnville ,Hospital ,MOH Hospital Patch 
+36944,905,A,WHGH,West Haldimand General - Hagersville ,Hospital ,MOH Hospital Patch 
+36960,906,A,NGH Simcoe,Norfolk General - Simcoe ,Hospital ,MOH Hospital Patch 
+36976,907,A,HGM Spare,Hamilton Hospital Spare ,Hospital ,MOH Hospital Patch 
+36992,908,A,LHS Vic Kid,London Health Sciences Victoria Hospital - Children's ER ,Hospital ,MOH Hospital Patch 
+37008,909,A,STJ London,St Joseph's Hospital - London ,Hospital ,MOH Hospital Patch 
+37024,90a,A,LHS UC,London Health Sciences University Campus ,Hospital ,MOH Hospital Patch 
+37040,90b,A,LHS Vic ER,London Health Sciences Victoria Hospital - Adult's ER ,Hospital ,MOH Hospital Patch 
+37056,90c,A,AH Ingersoll,Alexandra Hospital - Ingersoll ,Hospital ,MOH Hospital Patch 
+37072,90d,A,STMMH,St Marys Memorial ,Hospital ,MOH Hospital Patch 
+37088,90e,A,St.T Elgin,St Thomas Elgin ,Hospital ,MOH Hospital Patch 
+37104,90f,A,HP Stratford,Huron Perth Healthcare - Stratford  ,Hospital ,MOH Hospital Patch 
+37120,910,A,TDH,Tillsonburg District Memorial ,Hospital ,MOH Hospital Patch 
+37136,911,A,WGH,Woodstock General ,Hospital ,MOH Hospital Patch 
+37152,912,A,SBGH Chesley,South Bruce Grey Health Centre - Chesley ,Hospital ,MOH Hospital Patch 
+37168,913,A,SBGH Durham,South Bruce Grey Health Centre - Durham ,Hospital ,MOH Hospital Patch 
+37184,914,A,H&D H,Hanover and District ,Hospital ,MOH Hospital Patch 
+37200,915,A,SBGH Kincard,South Bruce Grey Health Centre - Kincardine ,Hospital ,MOH Hospital Patch 
+37216,916,A,GBHS Lions H,Grey Bruce Health Services - Lions Head ,Hospital ,MOH Hospital Patch 
+37232,917,A,GBHS Markdal,Grey Bruce Health Services - Markdale ,Hospital ,MOH Hospital Patch 
+37248,918,A,GBHS Meaford,Grey Bruce Health Services - Meaford ,Hospital ,MOH Hospital Patch 
+37264,919,A,GBHS OwenSnd,Grey Bruce Health Services - Owen Sound ,Hospital ,MOH Hospital Patch 
+37280,91a,A,GB Sthhmpton,Grey Bruce Health Services - Southampton ,Hospital ,MOH Hospital Patch 
+37296,91b,A,GB Tobermory,Grey Bruce Health Services - Tobermory ,Hospital ,MOH Hospital Patch 
+37312,91c,A,SBG Walkertn,South Bruce Grey Health Centre - Walkerton ,Hospital ,MOH Hospital Patch 
+37328,91d,A,GBHS Wiarton,Grey Bruce Health Service - Wiarton ,Hospital ,MOH Hospital Patch 
+37344,91e,A,HPH Clinton,Huron Perth Healthcare - Clinton ,Hospital ,MOH Hospital Patch 
+37360,91f,A,SHH Exeter,South Huron Hospital - Exeter ,Hospital ,MOH Hospital Patch 
+37376,920,A,AM&GGoderich,Alexandra Marine and General - Goderich ,Hospital ,MOH Hospital Patch 
+37392,921,A,4Cty Newbury,Four Counties Health Services - Newbury ,Hospital ,MOH Hospital Patch 
+37408,922,A,HPH Seaforth,Huron Perth Healthcare - Seaforth ,Hospital ,MOH Hospital Patch 
+37424,923,A,MH Strathroy,Middlesex Hospital - Strathroy ,Hospital ,MOH Hospital Patch 
+37440,924,A,Lisotwel Win,Listowel Wingham  ,Hospital ,MOH Hospital Patch 
+37456,925,A,LDN SPR,London Hospital Spare ,Hospital ,MOH Hospital Patch 
+37472,926,A,CKH Chatham,Chatham-Kent Healthcare - Chatham ,Hospital ,MOH Hospital Patch 
+37488,927,A,BH Petrolia,Bluewater Health - Petrolia ,Hospital ,MOH Hospital Patch 
+37504,928,A,MIS TAC 6,Tactical 6 ,EMS-Tac ,MOH Mississauga CACC 
+37520,929,A,BH Sarnia,Bluewater Health - Sarnia ,Hospital ,MOH Hospital Patch 
+37536,92a,A,SDH Wallacbr,Sydenham District - Wallaceburg ,Hospital ,MOH Hospital Patch 
+37552,92b,A,WAL SPR,Wallaceburg Spare ,Hospital ,MOH Hospital Patch 
+37568,92c,A,ESH,Erie Shores Healthcare - Leamington ,Hospital ,MOH Hospital Patch 
+37584,92d,A,Pelee Isl Cl,Pelee Island Clinic ,Hospital ,MOH Hospital Patch 
+37600,92e,A,WRH Metro,Windsor RegionalHospital - Metropolitan ,Hospital ,MOH Hospital Patch 
+37616,92f,A,WHDGH,Windsor Hotel Dieu Grace Hospital ,Hospital ,MOH Hospital Patch 
+37632,930,A,WRH Spare,Windsor Hospital Spare ,Hospital ,MOH Hospital Patch 
+37648,931,A,Niagara ACS,Ambulance Communications Services  ,EMS Dispatch ,MOH Niagara CACC 
+37664,932,A,Niagara N,North ,EMS Dispatch ,MOH Niagara CACC 
+37680,933,A,Niagara S,South ,EMS Dispatch ,MOH Niagara CACC 
+37696,934,A,Niagara TAC 1,Tactical 1 ,EMS-Tac ,MOH Niagara CACC 
+37712,935,A,Niagara TAC 2,Tactical 2 ,EMS-Tac ,MOH Niagara CACC 
+37728,936,A,Niagara TAC 3,Tactical 3 ,EMS-Tac ,MOH Niagara CACC 
+37760,938,A,NIAG Spare,Niagara Hospital Spare ,Hospital ,MOH Hospital Patch 
+37776,939,A,1 RED,Remote Emergency Dispatch ,EMS Dispatch ,MOH Interop 
+38048,94a,A,MTO COM,MTO Common ,Interop ,MTO Maintenance  
+38064,94b,A,CAMCO,Chatham Supervisors ,Public Works ,MTO Maintenance - Chatham Area 
+38080,94c,A,CAMC 1,Chatham1 ,Public Works ,MTO Maintenance - Chatham Area 
+38096,94d,A,CAMC 2,Chatham2 ,Public Works ,MTO Maintenance - Chatham Area 
+38112,94e,A,CAMC 3,Chatham3 ,Public Works ,MTO Maintenance - Chatham Area 
+38128,94f,A,CAMC 4,Chatham4 ,Public Works ,MTO Maintenance - Chatham Area 
+38144,950,A,MTO38144,Maintenance ,Public Works ,MTO Maintenance  
+38160,951,A,LAMCO,Supervisors ,Public Works ,MTO Maintenance - London Area 
+38176,952,A,LAMC 5,London5 ,Public Works ,MTO Maintenance - London Area 
+38192,953,A,LAMC 6,Woodstock ,Public Works ,MTO Maintenance - London Area 
+38208,954,A,LAMC 7,Kitchener ,Public Works ,MTO Maintenance - London Area 
+38224,955,A,LAMC 8,Paris ,Public Works ,MTO Maintenance - London Area 
+38240,956,A,1LCS,Coordinators and Supervisors ,Public Works ,MTO Maintenance - London Area 
+38256,957,A,OAMCO,Supervisors ,Public Works ,MTO Maintenance - Owen Sound Area 
+38272,958,A,OAMC 1,Goderich?? ,Public Works ,MTO Maintenance - Owen Sound Area 
+38288,959,A,OAMC 2,Unknown ,Public Works ,MTO Maintenance - Owen Sound Area 
+38304,95a,A,OAMC 3,Arthur?? ,Public Works ,MTO Maintenance - Owen Sound Area 
+38320,95b,A,OAMC 4,Patrol 25/25A Kincardine/Elsinore ,Public Works ,MTO Maintenance - Owen Sound Area 
+38336,95c,A,OAMC 5,Owen Sound area ,Public Works ,MTO Maintenance - Owen Sound Area 
+38352,95d,A,OAMC 6,Chatsworth/Meaford (Hwy 6/Hwy 26) ,Public Works ,MTO Maintenance - Owen Sound Area 
+38368,95e,A,OAMC 7,Lucan?? ,Public Works ,MTO Maintenance - Owen Sound Area 
+38384,95f,A,KMCO,KMCO - Supervisors ,Public Works ,MTO Maintenance - Barrie Area 
+38400,960,A,KMC9,KMC9 - Cookstown Patrol Yard (Hwy 26) ,Public Works ,MTO Maintenance - Barrie Area 
+38416,961,A,KMC10,KMC10 - Barrie/Forest Home/Stayner Patrol Yards ,Public Works ,MTO Maintenance - Barrie Area 
+38432,962,A,KMC11,KMC11 - Hillsdale/Coldwater Patrol Yards ,Public Works ,MTO Maintenance - Barrie Area 
+38448,963,A,NIA DIST,Niagara Supervisors??? ,Public Works ,MTO Maintenance - Hamilton Area 
+38464,964,A,BURL,Burlington ,Public Works ,MTO Maintenance - Hamilton Area 
+38480,965,A,MORR,Morriston ,Public Works ,MTO Maintenance - Hamilton Area 
+38496,966,A,NIAG,Niagara ,Public Works ,MTO Maintenance - Hamilton Area 
+38512,967,A,MTO38512,Maintenance ,Public Works ,MTO Maintenance  
+38528,968,A,MTO38528,Maintenance ,Public Works ,MTO Maintenance  
+38544,969,A,TOR SPVR,Toronto Supervisors ,Public Works ,MTO Maintenance - Toronto Area 
+38560,96a,A,MAPLE,Maple ,Public Works ,MTO Maintenance - Toronto Area 
+38576,96b,A,GORMLEY,Gormley ,Public Works ,MTO Maintenance - Toronto Area 
+38592,96c,A,KENNEDY,Kennedy ,Public Works ,MTO Maintenance - Toronto Area 
+38608,96d,A,DURHAM,Durham ,Public Works ,MTO Maintenance - Toronto Area 
+38624,96e,A,MTO38624,Maintenance ,Public Works ,MTO Maintenance  
+38640,96f,A,MTO38640,Chatham Supervisors? ,Public Works ,MTO Maintenance - Chatham Area 
+38656,970,A,MTO38656,Maintenance ,Public Works ,MTO Maintenance  
+38672,971,A,MTO38672,Maintenance ,Public Works ,MTO Maintenance  
+38688,972,A,MTO38688,MTO Spare ,Public Works ,MTO Maintenance  
+38704,973,A,MTO38704,Maintenance ,Public Works ,MTO Maintenance  
+38720,974,A,SPR 1,Spare 1 ,Public Works ,MTO Maintenance  
+38736,975,A,TOR CORE,Toronto Core (Mimico Yard) ,Public Works ,MTO Maintenance - Toronto Area 
+38752,976,A,LAMCO,Kitchener / Waterloo / Cambridge ,Public Works ,MTO Maintenance - London Area 
+38768,977,A,MTO38768,Maintenance ,Public Works ,MTO Maintenance  
+38784,978,A,MTO38784,MTO ,Public Works ,MTO Maintenance  
+38832,97b,A,MTO38832,MTO ,Public Works ,MTO Maintenance  
+38848,97c,A,MTO38848,Maintenance ,Public Works ,MTO Maintenance  
+39136,98e,A,MTO39136,Maintenance ,Public Works ,MTO Maintenance  
+39584,9aa,A,MOC Barton,Barton Street Jail - Hamilton ,Corrections ,Correctional Services 
+39632,9ad,A,MOC Windsor,Windsor Jail ,Corrections ,Correctional Services 
+39648,9ae,A,MOC Chatham,Chatham Jail ,Corrections ,Correctional Services 
+39664,9af,A,MOC Sarnia,Sarnia Jail ,Corrections ,Correctional Services 
+39680,9b0,A,MOC Blueway,Blueway YC ,Corrections ,Correctional Services 
+39696,9b1,A,MOC Stratfor,Stratford Jail ,Corrections ,Correctional Services 
+39712,9b2,A,MOC Walkertn,Walkerton Jail ,Corrections ,Correctional Services 
+39728,9b3,A,MOC OwnSnd,Owen Sound Jail ,Corrections ,Correctional Services 
+39744,9b4,A,MOC EMDC,Elgin Middlesex Detention Center  ,Corrections ,Correctional Services 
+39760,9b5,A,MOC Spruce,Spruce YC ,Corrections ,Correctional Services 
+39776,9b6,A,MOC Maple,Maple CC ,Corrections ,Correctional Services 
+39792,9b7,A,MOC Vanier,Vanier CC ,Corrections ,Correctional Services 
+39808,9b8,A,MOC Invictus,Invictus YC ,Corrections ,Correctional Services 
+39824,9b9,A,MOC OntCrrnt,Ont Correctional Institute ,Corrections ,Correctional Services 
+39840,9ba,A,MOC Hamilton,Hamilton DC ,Corrections ,Correctional Services 
+39856,9bb,A,MOC Brantfrd,Brantford Jail ,Corrections ,Correctional Services 
+39872,9bc,A,MOC Niagara,Niagara DC ,Corrections ,Correctional Services 
+39888,9bd,A,MOC TO IC,Toronto Intermittent Centre ,Corrections ,Correctional Services 
+39952,9c1,A,MOC TO East,Toronto East DC ,Corrections ,Correctional Services 
+39968,9c2,A,MOC Cnt Nrth,Central North CC ,Corrections ,Correctional Services 

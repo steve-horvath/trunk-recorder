@@ -1,0 +1,98 @@
+100,64,DE,1Dist HH/Milton,1 District - Halton Hills - Milton ,Law Dispatch ,Police 
+101,65,DE,1D HPRS,1 District  ,Law Talk ,Police 
+102,66,DE,1 Dist Event,1 District - Events ,Law Talk ,Police 
+103,67,DE,1D HRPS,1 District  ,Law Talk ,Police 
+104,68,DE,1D HRPS,1 District  ,Law Talk ,Police 
+106,06a,D,I/A 1,Interagency Ch. 1 ,Interop ,Interagency 
+107,06b,D,EOC 1,Emergency Operations Ch. 1 ,Interop ,Interagency 
+108,06c,DE,1D HRPS,1 District  ,Law Talk ,Police 
+113,71,DE,1D HRPS,1 District ,Law Talk ,Police 
+117,75,DE,1D HRPS,1 District  ,Law Talk ,Police 
+200,0c8,DE,2 Dist Oak,2 District - Oakville ,Law Dispatch ,Police 
+201,0c9,DE,2D HRPS,2 District  ,Law Talk ,Police 
+202,0ca,DE,2 Dist Event,2 District - Events ,Law Talk ,Police 
+203,0cb,DE,2D HRPS,2 District  ,Law Talk ,Police 
+204,0cc,DE,2D HRPS,2 District  ,Law Talk ,Police 
+206,0ce,D,I/A 2,Interagency Ch. 2 ,Interop ,Interagency 
+207,0cf,D,EOC 2,Emergency Operations Ch. 2 ,Interop ,Interagency 
+217,0d9,DE,2D HRPS,2 District  ,Law Talk ,Police 
+300,12c,DE,3 Dist Burl,3 District - Burlington ,Law Dispatch ,Police 
+301,12d,DE,3D HRPS,3 District ,Law Talk ,Police 
+302,12e,DE,3 Dist Event,3 District - Events ,Law Talk ,Police 
+304,130,DE,3D HRPS,3 District ,Law Talk ,Police 
+306,132,D,I/A 3,Interagency Ch. 3 ,Interop ,Interagency 
+307,133,D,EOC 3,Emergency Operations Ch. 3 ,Interop ,Interagency 
+406,196,D,I/A 4,Interagency Ch. 4 ,Interop ,Interagency 
+407,197,D,EOC 4,Emergency Operations Ch. 4 ,Interop ,Interagency 
+600,258,D,HHFD Dispatch,Dispatch ,Fire Dispatch ,Halton Hills Fire Department 
+601,259,D,HHFD TAC 2,TAC 2 ,Fire-Tac ,Halton Hills Fire Department 
+602,25a,D,HHFD TAC 3,TAC 3 ,Fire-Tac ,Halton Hills Fire Department 
+603,25b,D,HHFD TAC 4,TAC 4 ,Fire-Tac ,Halton Hills Fire Department 
+604,25c,D,HHFD,Fire ,Fire-Tac ,Halton Hills Fire Department 
+605,25d,D,HHFD Training,Training ,Fire-Talk ,Halton Hills Fire Department 
+608,260,D,HHFD D1 Paging,District 1 Paging ,Fire Dispatch ,Halton Hills Fire Department 
+609,261,D,HHFD D2 Paging,District 2 Paging ,Fire Dispatch ,Halton Hills Fire Department 
+610,262,D,HHFD D3 Paging,District 3 Paging ,Fire Dispatch ,Halton Hills Fire Department 
+612,264,D,HHFD Sp Ops Pg,Special Operations Paging ,Fire-Tac ,Halton Hills Fire Department 
+700,2bc,D,OFD Dispatch,Dispatch ,Fire Dispatch ,Oakville Fire Department 
+701,2bd,D,OFD TAC 2,TAC 2 ,Fire-Tac ,Oakville Fire Department 
+702,2be,D,OFD TAC 3,TAC 3 ,Fire-Tac ,Oakville Fire Department 
+703,2bf,D,OFD TAC 4,TAC 4 ,Fire-Tac ,Oakville Fire Department 
+704,2c0,D,OFD TAC 5,TAC 5 ,Fire-Tac ,Oakville Fire Department 
+705,2c1,D,OFD TAC 6,TAC 6 ,Fire-Tac ,Oakville Fire Department 
+707,2c3,D,OFD TAC 7,TAC 7 ,Fire-Tac ,Oakville Fire Department 
+708,2c4,D,OFD TAC 8,TAC 8 ,Fire-Tac ,Oakville Fire Department 
+709,2c5,D,OFD TAC 9,TAC 9 ,Fire-Tac ,Oakville Fire Department 
+710,2c6,D,OFD TAC 10,TAC 10 ,Fire-Tac ,Oakville Fire Department 
+711,2c7,D,OFD TAC 11,TAC 11 ,Fire-Tac ,Oakville Fire Department 
+712,2c8,D,OFD Training,Training ,Fire-Talk ,Oakville Fire Department 
+713,2c9,D,OFD Training,Training ,Fire-Talk ,Oakville Fire Department 
+714,2ca,D,OFD Prevent,Fire Prevention ,Fire-Talk ,Oakville Fire Department 
+720,2d0,D,Oakville By-law,Oakville By-law Enforcement ,Law Talk ,Municipal Services 
+800,320,D,BFD Dispatch,Dispatch ,Fire Dispatch ,Burlington Fire Department 
+801,321,D,BFD TAC 2,TAC 2 ,Fire-Tac ,Burlington Fire Department 
+802,322,D,BFD TAC 3,TAC 3 ,Fire-Tac ,Burlington Fire Department 
+803,323,D,BFD TAC 4,TAC 4 ,Fire-Tac ,Burlington Fire Department 
+804,324,D,BFD TAC 5,TAC 5 ,Fire-Tac ,Burlington Fire Department 
+805,325,D,BFD TAC 9,TAC 9 ,Fire-Tac ,Burlington Fire Department 
+807,327,D,BFD Train 1,Training 1 ,Fire-Talk ,Burlington Fire Department 
+808,328,D,BFD Train 2,Training 2 ,Fire-Talk ,Burlington Fire Department 
+811,32b,D,BFD TAC 6,TAC 6 ,Fire-Tac ,Burlington Fire Department 
+812,32c,D,BFD TAC 7,TAC 7 ,Fire-Tac ,Burlington Fire Department 
+813,32d,D,BFD TAC 8,TAC 8 ,Fire-Tac ,Burlington Fire Department 
+820,334,D,BFD Stn 1 Paging,Station 1 - Volunteers paging ,Fire Dispatch ,Burlington Fire Department 
+821,335,D,BFD Stn 5 Paging,Station 5 - Kilbride Volunteers paging ,Fire Dispatch ,Burlington Fire Department 
+900,384,D,MFD OPS 1,OPS 1 ,Fire Dispatch ,Milton Fire Department 
+901,385,D,MFD TAC 2,TAC 2 ,Fire-Tac ,Milton Fire Department 
+902,386,D,MFD TAC 3,TAC 3 ,Fire-Tac ,Milton Fire Department 
+903,387,D,MFD TAC 4,TAC 4  ,Fire-Tac ,Milton Fire Department 
+914,392,D,MFD TAC 5 Trn,TAC 5 Training ,Fire-Talk ,Milton Fire Department 
+916,394,D,Milton By-law,Milton By-law Enforcement ,Law Talk ,Municipal Services 
+997,3.00E+05,D,BFD/HFD,Burlington Fire - Hamilton Fire Patch  ,Interop ,Burlington Fire Department 
+1000,3.00E+08,D,Halton Hills PW,Halton Hills Public Works ,Public Works ,Municipal Services 
+1002,3ea,D,Halton Hills PW,Halton Hills Public Works ,Public Works ,Municipal Services 
+1003,3eb,D,Halton Hills Rds,Halton Hills Works / Roads ,Public Works ,Municipal Services 
+1004,3ec,D,HHT ActiVan,Halton Hills Transit - ActiVan ,Transportation ,Transit 
+1302,516,D,Burlingtn PW Rds,Burlington Public Works / Roads ,Public Works ,Municipal Services 
+1304,518,D,Burlingtn PW Rds,Burlington Public Works / Roads ,Public Works ,Municipal Services 
+1308,51c,D,Burlingtn By-law,Burlington By-law Enforcement ,Law Talk ,Municipal Services 
+1310,51e,D,Burlngton PW,Burlington Public Works Department ,Public Works ,Municipal Services 
+1350,546,D,BT Ch.1 Dispatch,Burlington Transit - Ch. 1 Dispatch ,Transportation ,Transit 
+1351,547,D,BT Ch. 5 Garage,Burlington Transit - Ch. 5 Garage ,Transportation ,Transit 
+1352,548,D,BT Ch.2 Private,Burlington Transit - Ch. 2 Private ,Transportation ,Transit 
+1353,549,D,BT Ch. 6 C/S,Burlington Transit - Ch. 6 Customer Service ,Transportation ,Transit 
+1354,54a,D,BT Ch.3 Super,Burlington Transit - Ch. 3 Supervisors ,Transportation ,Transit 
+1355,54b,D,BT Ch.4 HandiVan,Burlington Transit - Ch. 4 Handi-Van ,Transportation ,Transit 
+1400,578,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1401,579,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1402,57a,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1403,57b,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1404,57c,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1405,57d,D,Milton PW,Milton Public Works ,Public Works ,Municipal Services 
+1450,5aa,D,Milton Transit,Milton Transit ,Transportation ,Transit 
+1451,5ab,D,Milton Transit,Milton Transit ,Transportation ,Transit 
+1453,5ad,D,Milton Transit,Milton Transit ,Transportation ,Transit 
+1454,5ae,D,Milton access +,Milton access + ,Transportation ,Transit 
+1600,640,D,Halton EMS B/U,Halton Paramedic Service - Alternative Dispatch  ,Interop ,Interagency 
+1601,641,D,Logistics 1,Regional Administration Building - Logistics 1 ,Business ,Regional Administrative 
+1602,642,D,Logistics 2,Regional Administration Building - Logistics 2 ,Business ,Regional Administrative 

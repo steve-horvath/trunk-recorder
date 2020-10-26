@@ -1,0 +1,65 @@
+{
+    "ver": 2,
+    "sources": [{
+        "center": 142395000,
+        "rate": 2148000,
+        "error": -11700,
+        "gain": 49,
+        "debugRecorders": 0,
+        "digitalRecorders": 4,
+        "analogRecorders": 4,
+        "driver": "osmosdr",
+        "device": "rtl=00000100"
+    },{
+        "center": 861600000,
+        "rate": 2560000,
+        "error": -66500,
+        "gain": 39,
+        "debugRecorders": 0,
+        "digitalRecorders": 4,
+        "driver": "osmosdr",
+        "device": "rtl=00000101"
+    },{
+        "center": 858475000,
+        "rate": 2560000,
+        "error": -58500,
+        "gain": 39,
+        "debugRecorders": 0,
+        "digitalRecorders": 4,
+        "driver": "osmosdr",
+        "device": "rtl=00000102"
+    }],
+    "systems": [{
+        "control_channels": [142350000, 142800000],
+        "type": "smartnet",
+        "talkgroupsFile": "fleetnet.csv",
+        "shortName": "fleetnet",
+        "bandplan": "400_custom",
+        "squelch": -45,
+        "bandplanBase": 141015000.0,
+        "bandplanHigh": 154320000.0,
+        "bandplanSpacing": 15000.0,
+        "bandplanOffset": 380,
+        "talkgroupDisplayFormat": "id_tag",
+        "hideEncrypted": true,
+        "modulation": "fsk4",
+        "digitalLevel": 3,
+        "analogLevles": 7
+    },{
+        "control_channels": [857262500, 857587500, 859437500, 859687500],
+        "type": "p25",
+        "talkgroupDisplayFormat": "id_tag",
+        "talkgroupsFile": "halton.csv",
+        "shortName": "halton",
+        "hideEncrypted": true,
+        "uploadScript": "bfd-avd.sh",
+        "digitalLevel": 9,
+        "modulation": "qpsk"
+    }],
+    "defaultMode": "digital",
+    "logFile": "0",
+    "logLevel": "info",
+    "captureDir": "/home/shorvath/trunk_recordings/",
+    "frequencyFormat": "mhz"
+}
+

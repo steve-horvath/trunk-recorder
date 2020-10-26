@@ -1,0 +1,2249 @@
+{
+  "nodejs": {
+    "env": "production",
+    "host": "0.0.0.0",
+    "port": 3000,
+    "sslCA": null,
+    "sslCert": null,
+    "sslKey": null
+  },
+  "rdioScanner": {
+    "access": null,
+    "apiKeys": "06431bf2-eaf1-4fa7-a77a-87c0b9d8bdad",
+    "dirWatch": [
+      {
+        "deleteAfter": true,
+        "directory": "/home/shorvath/trunk_recordings/halton_calls/",
+        "system": 97048,
+        "type": "trunk-recorder"
+      },
+      {
+        "deleteAfter": true,
+        "directory": "/home/shorvath/trunk_recordings/halton/",
+        "system": 7048,
+        "type": "trunk-recorder"
+      },
+      {
+        "deleteAfter": true,
+        "directory": "/home/shorvath/trunk_recordings/fleetnet/",
+        "system": 861,
+        "type": "trunk-recorder"
+      }
+    ],
+    "downstreams": [],
+    "options": {
+      "dimmerDelay": 5000,
+      "disableAudioConversion": false,
+      "keypadBeeps": 1,
+      "pruneDays": 7
+    },
+    "systems": [
+      {
+        "id": 861,
+        "label": "BMR Fleetnet",
+        "talkgroups": [
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2736,
+            "label": "MNR 1ESSU 01",
+            "name": "Evaluation and Special Services Unit ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2752,
+            "label": "MNR 1ESSU 02",
+            "name": "Evaluation and Special Services Unit ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2768,
+            "label": "MNR 1NR OPS01",
+            "name": "Ops 1 Owen Sound - Sault Ste. Marie Dispatch ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2816,
+            "label": "MNR 1NR TAC01",
+            "name": "Tactical 1 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2832,
+            "label": "MNR 1NR TAC02",
+            "name": "Tactical 2 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2848,
+            "label": "MNR 1NR TAC03",
+            "name": "Tactical 3 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2864,
+            "label": "MNR 1NR TAC04",
+            "name": "Tactical 4 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2880,
+            "label": "MNR 1NR TAC05",
+            "name": "Tactical 5 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2896,
+            "label": "MNR 1NR TAC06",
+            "name": "Tactical 6 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2912,
+            "label": "MNR NR CO1",
+            "name": "Conservation Officers ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2928,
+            "label": "MNR NR CO2",
+            "name": "Conservation Officers ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2960,
+            "label": "MNR 1GUELPH ENF",
+            "name": "Guelph Wide Area ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2976,
+            "label": "MNR 1LONDON ENF",
+            "name": "London Wide Area ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 2992,
+            "label": "MNR 1AURORA ENF",
+            "name": "Aurora Wide Area ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 3024,
+            "label": "MNR 1LK ERIE ENF",
+            "name": "Lake Erie Wide Area ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MNR - Conservation Officers ",
+            "id": 3072,
+            "label": "MNR 1EMERG DISP",
+            "name": "Emergency Dispatch ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3632,
+            "label": "MTO ENF 3632",
+            "name": "Enforcement ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3648,
+            "label": "MTO ENF 3648",
+            "name": "Enforcement ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3712,
+            "label": "MTO ENF Essex",
+            "name": "Essex ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3744,
+            "label": "MTO ENF 3744",
+            "name": "Enforcement ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3760,
+            "label": "MTO ENF SW",
+            "name": "Enforcement Administration - Southwest ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3808,
+            "label": "MTO KITCHENER OP",
+            "name": "Kitchener Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3824,
+            "label": "MTO KITCHENER TC",
+            "name": "Kitchener Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3840,
+            "label": "MTO LONDON OPS",
+            "name": "London Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3856,
+            "label": "MTO LONDON TAC",
+            "name": "London Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3872,
+            "label": "MTO ENF SW SP",
+            "name": "Enforcement Spare - Southwest  ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3888,
+            "label": "MTO ENF SW COMM",
+            "name": "Enforcement Common - Southwest ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3904,
+            "label": "MTO TORONTO OPS",
+            "name": "Toronto Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3920,
+            "label": "MTO TORONTO TAC",
+            "name": "Toronto Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3936,
+            "label": "MTO PEEL OPS",
+            "name": "Peel Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3952,
+            "label": "MTO PEEL TAC",
+            "name": "Peel Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3968,
+            "label": "MTO HAMILTON OP",
+            "name": "Hamilton Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 3984,
+            "label": "MTO HAMILTON TAC",
+            "name": "Hamilton Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 4032,
+            "label": "MTO HALTON OP",
+            "name": "Halton Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 4048,
+            "label": "MTO HALTON TAC",
+            "name": "Halton Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 4064,
+            "label": "MTO YORK OPS",
+            "name": "York Operations ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 4080,
+            "label": "MTO YORK TAC",
+            "name": "York Tactical ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "MTO Enforcement ",
+            "id": 4096,
+            "label": "MTO RED",
+            "name": "Remote Emergency Dispatch ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 8000,
+            "label": "1ENF 01",
+            "name": "MTO/MNR/OPP Common Channel ",
+            "tag": "Interop "
+          },
+          {
+            "group": "OPP Wide Area ",
+            "id": 8192,
+            "label": "OPP 1HWY 01",
+            "name": "London Highway Units - 1HWY01 ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8208,
+            "label": "OPP 1OPS01",
+            "name": "Brant County 6B - 1OPS01 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8224,
+            "label": "OPP 1OPS02",
+            "name": "Bruce County 6R - 1OPS02 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8288,
+            "label": "OPP 1OPS06",
+            "name": "Haldimand County 6C -1OPS06 (6Q First Nations) ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8368,
+            "label": "OPP 1OPS11",
+            "name": "Oxford County 6S - 1OPS11 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8416,
+            "label": "OPP 1OPS14",
+            "name": "Wellington County 6T - 1OPS14 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8432,
+            "label": "OPP 1OPS15",
+            "name": "Norfolk County 6O - 1OPS15 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8448,
+            "label": "OPP 1OPS16",
+            "name": "Spare (Future Use) 1OPS16 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8464,
+            "label": "OPP 1OPS17",
+            "name": "Spare (Future Use) 1OPS17 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP West Region ",
+            "id": 8480,
+            "label": "OPP 1OPS18",
+            "name": "Spare (Future Use) 1OPS18 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Wide Area ",
+            "id": 8512,
+            "label": "OPP 1HWY 02",
+            "name": "GTR Highway Units - 1HWY02 ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "OPP Central Region ",
+            "id": 8528,
+            "label": "OPP 1OPS30",
+            "name": "Barrie 1B - 1OPS30 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Central Region ",
+            "id": 8544,
+            "label": "OPP 1OPS31",
+            "name": "Collingwood & Blue Mountains 1O - 1OPS31 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Central Region ",
+            "id": 8560,
+            "label": "OPP 1OPS32",
+            "name": "Dufferin County 1N - 1OPS32 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8672,
+            "label": "OPP 1OPS39",
+            "name": "Burlington 5C - 1OPS39 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Central Region ",
+            "id": 8688,
+            "label": "OPP 1OPS40",
+            "name": "Town of Caledon 1S - 1OPS40 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8704,
+            "label": "OPP 1OPS41",
+            "name": "Cambridge 5E - 1OPS41 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8720,
+            "label": "OPP 1OPS42",
+            "name": "Toronto 5F - 1OPS42 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8736,
+            "label": "OPP 1OPS43",
+            "name": "Niagara Region 5G - 1OPS43 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8752,
+            "label": "OPP 1OPS44",
+            "name": "Mississauga 5I - 1OPS44 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8784,
+            "label": "OPP 1OPS46",
+            "name": "Aurora 5L - 1OPS46 Highway 407 ETR ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8800,
+            "label": "OPP 1OPS47",
+            "name": "1OPS47 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8816,
+            "label": "OPP 1OPS48",
+            "name": "1OPS48 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Highway Safety Division ",
+            "id": 8832,
+            "label": "OPP 1OPS49",
+            "name": "1OPS49 ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "OPP Wide Area ",
+            "id": 8896,
+            "label": "OPP 1GTR",
+            "name": "Greater Toronto Region - 1GTR ",
+            "tag": "Law Talk "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9376,
+            "label": "OPP 1TAC01",
+            "name": "Tactical 1 - 1TAC01 (London Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9392,
+            "label": "OPP 1TAC02",
+            "name": "Tactical 2 - 1TAC02 (London Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9408,
+            "label": "OPP 1TAC03",
+            "name": "Tactical 3 - 1TAC03 (London Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9424,
+            "label": "OPP 1TAC04",
+            "name": "Tactical 4 - 1TAC04 (London Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9440,
+            "label": "OPP 1TAC05",
+            "name": "Tactical 5 - 1TAC05 (Orillia Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9456,
+            "label": "OPP 1TAC06",
+            "name": "Tactical 6 - 1TAC06 (Orillia Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9472,
+            "label": "OPP 1TAC07",
+            "name": "Tactical 7 - 1TAC07 (Orillia Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9488,
+            "label": "OPP 1TAC08",
+            "name": "Tactical 8 - 1TAC08 (Orillia Comm Centre) ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9504,
+            "label": "OPP 1TAC09",
+            "name": "Tactical 9 - 1TAC09 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Tactical ",
+            "id": 9520,
+            "label": "OPP 1TAC10",
+            "name": "Tactical 10 - 1TAC10 ",
+            "tag": "Law Tac "
+          },
+          {
+            "group": "OPP Wide Area ",
+            "id": 9536,
+            "label": "OPP 1RED SW",
+            "name": "Remote Emergency Dispatch - 1RED SW ",
+            "tag": "Law Dispatch "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9584,
+            "label": "1PC BPS/HPS",
+            "name": "Brantford / Hamilton Police Services Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9600,
+            "label": "1PC LPS",
+            "name": "London Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9632,
+            "label": "1PC PRPS",
+            "name": "Peel Regional Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9648,
+            "label": "1PC TPS",
+            "name": "Toronto Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9664,
+            "label": "1PC WRPS",
+            "name": "Waterloo Regional Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9680,
+            "label": "1PC WPS",
+            "name": "Windsor Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9696,
+            "label": "1PC YRPS",
+            "name": "York Regional PD Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9856,
+            "label": "1PC GPS",
+            "name": "Guelph Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 9968,
+            "label": "1PC S-CPS",
+            "name": "Strathroy-Caradoc Police Service Patch ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 32768,
+            "label": "1PC PS",
+            "name": "Public Safety  ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 32800,
+            "label": "1PC AMB",
+            "name": "Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 32816,
+            "label": "1PC POLICE",
+            "name": "Police Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Interagency/Common/Mutual Aid ",
+            "id": 32832,
+            "label": "1PC FIRE",
+            "name": "Fire Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "Ontario Fire Marshall ",
+            "id": 33088,
+            "label": "OFM - 1",
+            "name": "Ontario Fire Marshall - 1 ",
+            "tag": "Fire-Talk "
+          },
+          {
+            "group": "Ontario Fire Marshall ",
+            "id": 33104,
+            "label": "OFM - 2",
+            "name": "Ontario Fire Marshall - 2 ",
+            "tag": "Fire-Talk "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 34976,
+            "label": "MOH ZONE 1",
+            "name": "Southwest Zone Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 34992,
+            "label": "1 REG 1 COM",
+            "name": "Region 1 Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 35008,
+            "label": "1 REG 2 COM",
+            "name": "Region 2 Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 35024,
+            "label": "1 REG 3 COM",
+            "name": "Region 3 Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35472,
+            "label": "MOH CAM CACC",
+            "name": "CACC ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35488,
+            "label": "MOH CAM N Patch",
+            "name": "North - Hospital Patch ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35504,
+            "label": "MOH CAM S Patch",
+            "name": "South - Hospital Patch ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35520,
+            "label": "MOH CAM TAC 1 WR",
+            "name": "Tactical 1 - Waterloo Region ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35536,
+            "label": "MOH CAM TAC 2 WR",
+            "name": "Tactical 2 - Waterloo Region ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35552,
+            "label": "MOH CAM TAC 3 WD",
+            "name": "Tactical 3 - Wellington/Dufferin ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Cambridge CACC ",
+            "id": 35568,
+            "label": "MOH CAM Spare",
+            "name": "Spare ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35584,
+            "label": "Hamilton CACC",
+            "name": "CACC ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35600,
+            "label": "Ham City East",
+            "name": "City East ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35616,
+            "label": "Ham Niagara N",
+            "name": "Niagara North ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35632,
+            "label": "Simcoe Norfolk",
+            "name": "Simcoe Norfolk  ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35648,
+            "label": "Hamilton TAC 1",
+            "name": "Tactical 1 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35664,
+            "label": "Hamilton TAC 2",
+            "name": "Tactical 2 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35680,
+            "label": "Hamilton TAC 3",
+            "name": "Tactical 3 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35696,
+            "label": "Hamilton TAC 4",
+            "name": "Tactical 4 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35712,
+            "label": "Ham City West",
+            "name": "City West ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hamilton CACC ",
+            "id": 35728,
+            "label": "Ham Niagara S",
+            "name": "Niagara South ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35744,
+            "label": "MIS CACC",
+            "name": "Mississauga CACC ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35760,
+            "label": "Peel N Patch",
+            "name": "Hospital Patch - Peel North ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35776,
+            "label": "Peel S Patch",
+            "name": "Hospital Patch - Peel South ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35792,
+            "label": "Halton EMS",
+            "name": "Halton Region ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35808,
+            "label": "MIS TAC 1 SW",
+            "name": "Tactical 1 - Peel South West ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35824,
+            "label": "MIS TAC 2 SE",
+            "name": "Tactical 2 - Peel South East ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35840,
+            "label": "MIS TAC 3 HL",
+            "name": "Tactical 3 - Halton - Hospital Patch  ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35856,
+            "label": "MIS TAC 4 NE",
+            "name": "Tactical 4 - Peel North East ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35872,
+            "label": "MIS TAC 5 NW",
+            "name": "Tactical 5 - Peel North West ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 35888,
+            "label": "MIS Spare",
+            "name": "Spare ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36304,
+            "label": "JBMH",
+            "name": "Joseph Brant Memorial - Burlington ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36320,
+            "label": "HHC GH",
+            "name": "Halton Healthcare - Georgetown ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36336,
+            "label": "HHC OTMH",
+            "name": "Halton Healthcare - Oakville  ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36352,
+            "label": "HHC MDH",
+            "name": "Halton Healthcare - Milton  ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36736,
+            "label": "HHS HGH",
+            "name": "Hamilton Health Sciences - General ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36752,
+            "label": "JURAVINSKI",
+            "name": "Juravinski Hospital - Hamilton ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36768,
+            "label": "MUHC",
+            "name": "Hamilton Health Sciences - McMaster  ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36784,
+            "label": "StJ Hamilton",
+            "name": "St Josephs - Hamilton ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36816,
+            "label": "WLMH",
+            "name": "West Lincoln Hospital - Grimsby ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36928,
+            "label": "HWMH",
+            "name": "Haldimand War Memorial - Dunnville ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36944,
+            "label": "WHGH",
+            "name": "West Haldimand General - Hagersville ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36960,
+            "label": "NGH Simcoe",
+            "name": "Norfolk General - Simcoe ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 36976,
+            "label": "HGM Spare",
+            "name": "Hamilton Hospital Spare ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Mississauga CACC ",
+            "id": 37504,
+            "label": "MIS TAC 6",
+            "name": "Tactical 6 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37648,
+            "label": "Niagara ACS",
+            "name": "Ambulance Communications Services  ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37664,
+            "label": "Niagara N",
+            "name": "North ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37680,
+            "label": "Niagara S",
+            "name": "South ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37696,
+            "label": "Niagara TAC 1",
+            "name": "Tactical 1 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37712,
+            "label": "Niagara TAC 2",
+            "name": "Tactical 2 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Niagara CACC ",
+            "id": 37728,
+            "label": "Niagara TAC 3",
+            "name": "Tactical 3 ",
+            "tag": "EMS-Tac "
+          },
+          {
+            "group": "MOH Hospital Patch ",
+            "id": 37760,
+            "label": "NIAG Spare",
+            "name": "Niagara Hospital Spare ",
+            "tag": "Hospital "
+          },
+          {
+            "group": "MOH Interop ",
+            "id": 37776,
+            "label": "1 RED",
+            "name": "Remote Emergency Dispatch ",
+            "tag": "EMS Dispatch "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38048,
+            "label": "MTO COM",
+            "name": "MTO Common ",
+            "tag": "Interop "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38144,
+            "label": "MTO38144",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Hamilton Area ",
+            "id": 38448,
+            "label": "NIA DIST",
+            "name": "Niagara Supervisors??? ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Hamilton Area ",
+            "id": 38464,
+            "label": "BURL",
+            "name": "Burlington ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Hamilton Area ",
+            "id": 38480,
+            "label": "MORR",
+            "name": "Morriston ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Hamilton Area ",
+            "id": 38496,
+            "label": "NIAG",
+            "name": "Niagara ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38512,
+            "label": "MTO38512",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38528,
+            "label": "MTO38528",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38544,
+            "label": "TOR SPVR",
+            "name": "Toronto Supervisors ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38560,
+            "label": "MAPLE",
+            "name": "Maple ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38576,
+            "label": "GORMLEY",
+            "name": "Gormley ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38592,
+            "label": "KENNEDY",
+            "name": "Kennedy ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38608,
+            "label": "DURHAM",
+            "name": "Durham ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38624,
+            "label": "MTO38624",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38656,
+            "label": "MTO38656",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38672,
+            "label": "MTO38672",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38688,
+            "label": "MTO38688",
+            "name": "MTO Spare ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38704,
+            "label": "MTO38704",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38720,
+            "label": "SPR 1",
+            "name": "Spare 1 ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance - Toronto Area ",
+            "id": 38736,
+            "label": "TOR CORE",
+            "name": "Toronto Core (Mimico Yard) ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38768,
+            "label": "MTO38768",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38784,
+            "label": "MTO38784",
+            "name": "MTO ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38832,
+            "label": "MTO38832",
+            "name": "MTO ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 38848,
+            "label": "MTO38848",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "MTO Maintenance  ",
+            "id": 39136,
+            "label": "MTO39136",
+            "name": "Maintenance ",
+            "tag": "Public Works "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39584,
+            "label": "MOC Barton",
+            "name": "Barton Street Jail - Hamilton ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39776,
+            "label": "MOC Maple",
+            "name": "Maple CC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39792,
+            "label": "MOC Vanier",
+            "name": "Vanier CC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39808,
+            "label": "MOC Invictus",
+            "name": "Invictus YC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39824,
+            "label": "MOC OntCrrnt",
+            "name": "Ont Correctional Institute ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39840,
+            "label": "MOC Hamilton",
+            "name": "Hamilton DC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39856,
+            "label": "MOC Brantfrd",
+            "name": "Brantford Jail ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39872,
+            "label": "MOC Niagara",
+            "name": "Niagara DC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39888,
+            "label": "MOC TO IC",
+            "name": "Toronto Intermittent Centre ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39952,
+            "label": "MOC TO East",
+            "name": "Toronto East DC ",
+            "tag": "Corrections "
+          },
+          {
+            "group": "Correctional Services ",
+            "id": 39968,
+            "label": "MOC Cnt Nrth",
+            "name": "Central North CC ",
+            "tag": "Corrections "
+          }
+        ],
+        "units": []
+      },
+      {
+        "id": 97048,
+        "label": "Halton FD Calls",
+        "talkgroups": [
+          {
+            "group": "Fire Calls",
+            "id": 800,
+            "label": "BFD AVD",
+            "name": "Burlington FD Voice Dispatch",
+            "tag": "BFD-AVD"
+          },
+          {
+            "group": "Fire Calls",
+            "id": 700,
+            "label": "OFD AVD",
+            "name": "Oakville FD Voice Dispatch",
+            "tag": "OFD-AVD"
+          },
+          {
+            "group": "Fire Calls",
+            "id": 600,
+            "label": "HHFD AVD",
+            "name": "Halton Hils FD Voice Dispatch",
+            "tag": "HHFD-AVD"
+          }
+        ],
+        "units": [
+          {
+            "id": 109,
+            "label": "AVD"
+          }
+        ]
+      },
+      {
+        "id": 7048,
+        "label": "Halton Region",
+        "talkgroups": [
+          {
+            "group": "Interagency",
+            "id": 106,
+            "label": "I/A 1",
+            "name": "Interagency Ch. 1",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 107,
+            "label": "EOC 1",
+            "name": "Emergency Operations Ch. 1",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 206,
+            "label": "I/A 2",
+            "name": "Interagency Ch. 2",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 207,
+            "label": "EOC 2",
+            "name": "Emergency Operations Ch. 2",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 306,
+            "label": "I/A 3",
+            "name": "Interagency Ch. 3",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 307,
+            "label": "EOC 3",
+            "name": "Emergency Operations Ch. 3",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 406,
+            "label": "I/A 4",
+            "name": "Interagency Ch. 4",
+            "tag": "Interop"
+          },
+          {
+            "group": "Interagency",
+            "id": 407,
+            "label": "EOC 4",
+            "name": "Emergency Operations Ch. 4",
+            "tag": "Interop"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 600,
+            "label": "HHFD Dispatch",
+            "name": "Dispatch",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 601,
+            "label": "HHFD TAC 2",
+            "name": "TAC 2",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 602,
+            "label": "HHFD TAC 3",
+            "name": "TAC 3",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 603,
+            "label": "HHFD TAC 4",
+            "name": "TAC 4",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 604,
+            "label": "HHFD",
+            "name": "Fire",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 605,
+            "label": "HHFD Training",
+            "name": "Training",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 608,
+            "label": "HHFD D1 Paging",
+            "name": "District 1 Paging",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 609,
+            "label": "HHFD D2 Paging",
+            "name": "District 2 Paging",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 610,
+            "label": "HHFD D3 Paging",
+            "name": "District 3 Paging",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Halton Hills Fire Department",
+            "id": 612,
+            "label": "HHFD Sp Ops Pg",
+            "name": "Special Operations Paging",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 700,
+            "label": "OFD Dispatch",
+            "name": "Dispatch",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 701,
+            "label": "OFD TAC 2",
+            "name": "TAC 2",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 702,
+            "label": "OFD TAC 3",
+            "name": "TAC 3",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 703,
+            "label": "OFD TAC 4",
+            "name": "TAC 4",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 704,
+            "label": "OFD TAC 5",
+            "name": "TAC 5",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 705,
+            "label": "OFD TAC 6",
+            "name": "TAC 6",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 707,
+            "label": "OFD TAC 7",
+            "name": "TAC 7",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 708,
+            "label": "OFD TAC 8",
+            "name": "TAC 8",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 709,
+            "label": "OFD TAC 9",
+            "name": "TAC 9",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 710,
+            "label": "OFD TAC 10",
+            "name": "TAC 10",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 711,
+            "label": "OFD TAC 11",
+            "name": "TAC 11",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 712,
+            "label": "OFD Training",
+            "name": "Training",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 713,
+            "label": "OFD Training",
+            "name": "Training",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Oakville Fire Department",
+            "id": 714,
+            "label": "OFD Prevent",
+            "name": "Fire Prevention",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 720,
+            "label": "Oakville By-law",
+            "name": "Oakville By-law Enforcement",
+            "tag": "Law Talk"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 800,
+            "label": "BFD Dispatch",
+            "name": "Dispatch",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 801,
+            "label": "BFD TAC 2",
+            "name": "TAC 2",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 802,
+            "label": "BFD TAC 3",
+            "name": "TAC 3",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 803,
+            "label": "BFD TAC 4",
+            "name": "TAC 4",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 804,
+            "label": "BFD TAC 5",
+            "name": "TAC 5",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 805,
+            "label": "BFD TAC 9",
+            "name": "TAC 9",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 807,
+            "label": "BFD Train 1",
+            "name": "Training 1",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 808,
+            "label": "BFD Train 2",
+            "name": "Training 2",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 811,
+            "label": "BFD TAC 6",
+            "name": "TAC 6",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 812,
+            "label": "BFD TAC 7",
+            "name": "TAC 7",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 813,
+            "label": "BFD TAC 8",
+            "name": "TAC 8",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 820,
+            "label": "BFD Stn 1 Paging",
+            "name": "Station 1 - Volunteers paging",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 821,
+            "label": "BFD Stn 5 Paging",
+            "name": "Station 5 - Kilbride Volunteers paging",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Milton Fire Department",
+            "id": 900,
+            "label": "MFD OPS 1",
+            "name": "OPS 1",
+            "tag": "Fire Dispatch"
+          },
+          {
+            "group": "Milton Fire Department",
+            "id": 901,
+            "label": "MFD TAC 2",
+            "name": "TAC 2",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Milton Fire Department",
+            "id": 902,
+            "label": "MFD TAC 3",
+            "name": "TAC 3",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Milton Fire Department",
+            "id": 903,
+            "label": "MFD TAC 4",
+            "name": "TAC 4 ",
+            "tag": "Fire-Tac"
+          },
+          {
+            "group": "Milton Fire Department",
+            "id": 914,
+            "label": "MFD TAC 5 Trn",
+            "name": "TAC 5 Training",
+            "tag": "Fire-Talk"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 916,
+            "label": "Milton By-law",
+            "name": "Milton By-law Enforcement",
+            "tag": "Law Talk"
+          },
+          {
+            "group": "Burlington Fire Department",
+            "id": 997,
+            "label": "BFD/HFD",
+            "name": "Burlington Fire - Hamilton Fire Patch ",
+            "tag": "Interop"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1000,
+            "label": "Halton Hills PW",
+            "name": "Halton Hills Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1002,
+            "label": "Halton Hills PW",
+            "name": "Halton Hills Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1003,
+            "label": "Halton Hills Rds",
+            "name": "Halton Hills Works / Roads",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Transit",
+            "id": 1004,
+            "label": "HHT ActiVan",
+            "name": "Halton Hills Transit - ActiVan",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1302,
+            "label": "Burlingtn PW Rds",
+            "name": "Burlington Public Works / Roads",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1304,
+            "label": "Burlingtn PW Rds",
+            "name": "Burlington Public Works / Roads",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1308,
+            "label": "Burlingtn By-law",
+            "name": "Burlington By-law Enforcement",
+            "tag": "Law Talk"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1310,
+            "label": "Burlngton PW",
+            "name": "Burlington Public Works Department",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Transit",
+            "id": 1350,
+            "label": "BT Ch.1 Dispatch",
+            "name": "Burlington Transit - Ch. 1 Dispatch",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1351,
+            "label": "BT Ch. 5 Garage",
+            "name": "Burlington Transit - Ch. 5 Garage",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1352,
+            "label": "BT Ch.2 Private",
+            "name": "Burlington Transit - Ch. 2 Private",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1353,
+            "label": "BT Ch. 6 C/S",
+            "name": "Burlington Transit - Ch. 6 Customer Service",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1354,
+            "label": "BT Ch.3 Super",
+            "name": "Burlington Transit - Ch. 3 Supervisors",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1355,
+            "label": "BT Ch.4 HandiVan",
+            "name": "Burlington Transit - Ch. 4 Handi-Van",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1400,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1401,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1402,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1403,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1404,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Municipal Services",
+            "id": 1405,
+            "label": "Milton PW",
+            "name": "Milton Public Works",
+            "tag": "Public Works"
+          },
+          {
+            "group": "Transit",
+            "id": 1450,
+            "label": "Milton Transit",
+            "name": "Milton Transit",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1451,
+            "label": "Milton Transit",
+            "name": "Milton Transit",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1453,
+            "label": "Milton Transit",
+            "name": "Milton Transit",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Transit",
+            "id": 1454,
+            "label": "Milton access +",
+            "name": "Milton access +",
+            "tag": "Transportation"
+          },
+          {
+            "group": "Interagency",
+            "id": 1600,
+            "label": "Halton EMS B/U",
+            "name": "Halton Paramedic Service - Alternative Dispatch ",
+            "tag": "Interop"
+          },
+          {
+            "group": "Regional Administrative",
+            "id": 1601,
+            "label": "Logistics 1",
+            "name": "Regional Administration Building - Logistics 1",
+            "tag": "Business"
+          },
+          {
+            "group": "Regional Administrative",
+            "id": 1602,
+            "label": "Logistics 2",
+            "name": "Regional Administration Building - Logistics 2",
+            "tag": "Business"
+          }
+        ],
+        "units": [
+          {
+            "id": 61056,
+            "label": "L342-D"
+          },
+          {
+            "id": 92011,
+            "label": "R274"
+          },
+          {
+            "id": 90009,
+            "label": "OFD-Station 5"
+          },
+          {
+            "id": 92012,
+            "label": "P251"
+          },
+          {
+            "id": 92043,
+            "label": "L232"
+          },
+          {
+            "id": 92044,
+            "label": "P261"
+          },
+          {
+            "id": 90029,
+            "label": "OFD-Station 9"
+          },
+          {
+            "id": 61073,
+            "label": "P361-A"
+          },
+          {
+            "id": 61074,
+            "label": "P361-B"
+          },
+          {
+            "id": 61075,
+            "label": "P361-C"
+          },
+          {
+            "id": 61076,
+            "label": "P361-D"
+          },
+          {
+            "id": 61077,
+            "label": "Q381-A"
+          },
+          {
+            "id": 61078,
+            "label": "P371-A"
+          },
+          {
+            "id": 61079,
+            "label": "P371-B"
+          },
+          {
+            "id": 61080,
+            "label": "P371-C"
+          },
+          {
+            "id": 61081,
+            "label": "P371-D"
+          },
+          {
+            "id": 61082,
+            "label": "R372-A"
+          },
+          {
+            "id": 61083,
+            "label": "R372-B"
+          },
+          {
+            "id": 61084,
+            "label": "R372-C"
+          },
+          {
+            "id": 61085,
+            "label": "R372-D"
+          },
+          {
+            "id": 61087,
+            "label": "Q381-B"
+          },
+          {
+            "id": 90016,
+            "label": "OFD-Station 3"
+          },
+          {
+            "id": 92016,
+            "label": "P291"
+          },
+          {
+            "id": 92007,
+            "label": "P271"
+          },
+          {
+            "id": 90011,
+            "label": "OFD-Station 6"
+          },
+          {
+            "id": 61042,
+            "label": "P321-D"
+          },
+          {
+            "id": 62021,
+            "label": "P371"
+          },
+          {
+            "id": 90013,
+            "label": "OFD-Station 7"
+          },
+          {
+            "id": 62024,
+            "label": "R312"
+          },
+          {
+            "id": 62004,
+            "label": "C30"
+          },
+          {
+            "id": 62005,
+            "label": "P311"
+          },
+          {
+            "id": 62006,
+            "label": "R312"
+          },
+          {
+            "id": 62011,
+            "label": "P361"
+          },
+          {
+            "id": 62013,
+            "label": "P321"
+          },
+          {
+            "id": 62015,
+            "label": "P341"
+          },
+          {
+            "id": 62016,
+            "label": "L342"
+          },
+          {
+            "id": 62017,
+            "label": "P305"
+          },
+          {
+            "id": 62020,
+            "label": "Q331"
+          },
+          {
+            "id": 92022,
+            "label": "P242"
+          },
+          {
+            "id": 62022,
+            "label": "R372"
+          },
+          {
+            "id": 62023,
+            "label": "Q381"
+          },
+          {
+            "id": 61000,
+            "label": "Q381-D"
+          },
+          {
+            "id": 92028,
+            "label": "R254"
+          },
+          {
+            "id": 62039,
+            "label": "STN5"
+          },
+          {
+            "id": 61005,
+            "label": "Q381-C"
+          },
+          {
+            "id": 61006,
+            "label": "C30-B"
+          },
+          {
+            "id": 61007,
+            "label": "C30-C"
+          },
+          {
+            "id": 61008,
+            "label": "P311-A"
+          },
+          {
+            "id": 61009,
+            "label": "P311-B"
+          },
+          {
+            "id": 61010,
+            "label": "P311-C"
+          },
+          {
+            "id": 61011,
+            "label": "P311-D"
+          },
+          {
+            "id": 61012,
+            "label": "R312-A"
+          },
+          {
+            "id": 61013,
+            "label": "C30-A"
+          },
+          {
+            "id": 61014,
+            "label": "R312-B"
+          },
+          {
+            "id": 61015,
+            "label": "R312-C"
+          },
+          {
+            "id": 61016,
+            "label": "R312-D"
+          },
+          {
+            "id": 90004,
+            "label": "OFD-Station 4"
+          },
+          {
+            "id": 92000,
+            "label": "P211"
+          },
+          {
+            "id": 92001,
+            "label": "H213"
+          },
+          {
+            "id": 92005,
+            "label": "P221"
+          },
+          {
+            "id": 92006,
+            "label": "P231"
+          },
+          {
+            "id": 90001,
+            "label": "OFD-Station 1"
+          },
+          {
+            "id": 92009,
+            "label": "C5"
+          },
+          {
+            "id": 107,
+            "label": "Dispatch"
+          },
+          {
+            "id": 108,
+            "label": "Dispatch"
+          },
+          {
+            "id": 109,
+            "label": "AVD"
+          },
+          {
+            "id": 92014,
+            "label": "C233"
+          },
+          {
+            "id": 61039,
+            "label": "P321-A"
+          },
+          {
+            "id": 61040,
+            "label": "P321-B"
+          },
+          {
+            "id": 61041,
+            "label": "P321-C"
+          },
+          {
+            "id": 114,
+            "label": "Dispatch"
+          },
+          {
+            "id": 90003,
+            "label": "OFD-Station 2"
+          },
+          {
+            "id": 61044,
+            "label": "P331-A"
+          },
+          {
+            "id": 61045,
+            "label": "P331-B"
+          },
+          {
+            "id": 61046,
+            "label": "P331-C"
+          },
+          {
+            "id": 61047,
+            "label": "P331-D"
+          },
+          {
+            "id": 61049,
+            "label": "P341-A"
+          },
+          {
+            "id": 61050,
+            "label": "P341-B"
+          },
+          {
+            "id": 61051,
+            "label": "P341-C"
+          },
+          {
+            "id": 61052,
+            "label": "P341-D"
+          },
+          {
+            "id": 61053,
+            "label": "L342-A"
+          },
+          {
+            "id": 61054,
+            "label": "L342-B"
+          },
+          {
+            "id": 61055,
+            "label": "L342-C"
+          },
+          {
+            "id": 62018,
+            "label": "S305"
+          }
+        ]
+      }
+    ]
+  },
+  "sequelize": {
+    "database": null,
+    "dialect": "sqlite",
+    "host": null,
+    "password": null,
+    "port": null,
+    "storage": "/home/shorvath/rdio-scanner/server/database.sqlite",
+    "username": null
+  }
+}
